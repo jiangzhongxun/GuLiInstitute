@@ -1,0 +1,3 @@
+2022-11-20 23:04:41.321 [http-nio-8001-exec-6] ERROR c.a.s.exceptionhandler.GlobalExceptionHandler - null
+2022-11-20 23:04:49.514 [http-nio-8001-exec-8] ERROR c.a.s.exceptionhandler.GlobalExceptionHandler - null
+2022-11-20 23:08:55.061 [http-nio-8001-exec-8] ERROR c.a.s.exceptionhandler.GlobalExceptionHandler - null

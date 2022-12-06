@@ -11,6 +11,8 @@
 
     <artifactId>service_base</artifactId>
 
+<!--    <packaging>jar</packaging>-->
+
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
@@ -22,6 +24,11 @@
             <groupId>com.atguigu</groupId>
             <artifactId>common_utils</artifactId>
             <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <!-- JWT-->
+        <dependency>
+            <groupId>io.jsonwebtoken</groupId>
+            <artifactId>jjwt</artifactId>
         </dependency>
     </dependencies>
 

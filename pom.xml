@@ -96,11 +96,11 @@
                 <version>${swagger.version}</version>
             </dependency>
             <!-- aliyunOSS -->
-            <dependency>
-                <groupId>com.aliyun.oss</groupId>
-                <artifactId>aliyun-sdk-oss</artifactId>
-                <version>${aliyun.oss.version}</version>
-            </dependency>
+<!--            <dependency>-->
+<!--                <groupId>com.aliyun.oss</groupId>-->
+<!--                <artifactId>aliyun-sdk-oss</artifactId>-->
+<!--                <version>${aliyun.oss.version}</version>-->
+<!--            </dependency>-->
             <!-- 日期时间工具 -->
             <dependency>
                 <groupId>joda-time</groupId>
